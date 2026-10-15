@@ -5,7 +5,7 @@ This public folder contains country-level datasets describing projected labour p
 **Produced within:** ACCREU (Assessing Climate Change Risk in EUrope), Horizon Europe
 **Version:** 1.0 (2026)
 
-**Public Accelerator folder:** [View ACCREU dataset files](links.html)
+**Public IIASA Accelerator folder:** [View ACCREU dataset files](links_DT3.html)
 
 ## Summary
 
@@ -25,7 +25,7 @@ The dataset supports analysis of climate impacts on labour productivity at count
 
 This GitHub repository hosts **only** the metadata (this README and the data access page). The data files reside on the IIASA Accelerator platform (see link above).
 
-## Folder Structure (on Accelerator)
+## Folder Structure (on IIASA Accelerator)
 
 ```text
 CMCC_lab_prod/
@@ -40,7 +40,9 @@ CMCC_lab_prod/
 
 # Dataset Documentation
 
-## 1. Files
+## 1. Files 
+
+**Files are available for download from the IIASA Accelerator:** [View ACCREU dataset files](links_DT3.html)
 
 | File | Content |
 |---|---|
