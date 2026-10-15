@@ -15,7 +15,7 @@ The dataset supports analysis of climate impacts on labour productivity at count
 
 ## Citation
 
-> Colelli, Francesco. (2026). *Labour Productivity Shock Dataset* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Colelli, Francesco. (2026). *Labour Productivity Shock Dataset* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.23390461
 
 ## License
 
